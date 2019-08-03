@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'SourceSansProLight';
+    font-weight: normal;
+    font-style: normal;
+    src: url('./SourceSansPro-Light.ttf');
+  }
+  @font-face {
+    font-family: 'SourceSansProRegular';
+    font-weight: normal;
+    font-style: normal;
+    src: url('./SourceSansPro-Regular.ttf');
+  }
